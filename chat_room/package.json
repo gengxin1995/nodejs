@@ -1,0 +1,11 @@
+{
+  "name": "chat_room",
+  "version": "1.0.0",
+  "description": "学习nodejs网络编程，制作一个简易聊天室",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
